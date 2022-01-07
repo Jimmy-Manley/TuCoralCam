@@ -1,4 +1,5 @@
 // Written by Austin Greene on Jan 21, 2019 - based on open source RTClib library examples.
+//Modified by Jimmy-Manley so that capture sequence now runs indefinitely alternating between video and photo sequences every other minute.
 
 // The on-board Pro-Mini LED tied to Pin 13 will be used as an indicator light during mode/power button pushes. 
 // A small DS3231 RTC is used. The DS3231 has 2 onboard alarms that can be set, but in my experience only Alarm 1 functions reliably. 
